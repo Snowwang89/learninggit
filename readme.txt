@@ -1,2 +1,2 @@
 git is a vc system
-git is free
+git is free sw distributed under GPL
